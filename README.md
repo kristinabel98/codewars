@@ -1,2 +1,2 @@
 # codewars solutions
-https://www.codewars.com/users/rsschool_5f14e066d4ea700b/badges/large
+![СODEWARS](https://user-images.githubusercontent.com/112479543/210265121-5bda744a-0708-4079-b0d6-15a721fb4505.PNG)
